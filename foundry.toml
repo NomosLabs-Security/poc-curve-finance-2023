@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Curve Finance Vyper reentrancy — one block before attack
+fork_block_number = 17807830
